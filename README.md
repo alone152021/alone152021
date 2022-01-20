@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @alone152021
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+fix error processing package msfpc (--configure):
+ installed msfpc package post-installation script subprocess returned error exit status 8
+Errors were encountered while processing:
+ msfpc
+<!---
+alone152021/alone152021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
